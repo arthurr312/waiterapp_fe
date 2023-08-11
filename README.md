@@ -22,12 +22,10 @@
 
 ### Principais funcionalidades presentes na aplicação:
 
--   Login/Logout do proprietário dos brinquedos;
--   Possibilidade de redefinição de senha para o proprietário do brinquedo;
--   Cronômetro para controlar o tempo gasto de cada cliente em um brinquedo;
--   Cadastro, edição, listagem e remoção de brinquedos;
--   Listagem e remoção do tempo passado por cada cliente;
--   A seção de "Finanças" é dedicada aos proprietários de brinquedos para o acompanhamento detalhado dos lucros obtidos. Aqui, poderá ser visualizado os ganhos diários, semanais e mensais com facilidade.
+-   Receber pedidos dos clientes em tempo real;
+-   Ver detalhes dos pedidos;
+-   Mudar status dos pedidos (Fila de espera, Em preparação, Finalizado);
+-   Cancelar pedido;
 
 ## 🎨 Telas da aplicação
 
