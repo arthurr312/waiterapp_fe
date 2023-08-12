@@ -10,13 +10,13 @@
 
 ### Ferramentas usadas durante o desenvolvimento da aplicação:
 
--   <img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
--   <img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
--   <img height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-
--   <img height="30" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+-   [Vite](https://vitejs.dev/)
+-   [React.js](https://react.dev/)
+-   [Typescript](https://www.typescriptlang.org/)
+-   [Axios](https://axios-http.com/ptbr/docs/intro)
+-   [Eslint](https://eslint.org/)
+-   [styled-components](https://styled-components.com/)
+-   [Socket.IO](https://socket.io/)
 
 ## 📲 Funcionalidades
 
